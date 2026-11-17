@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version=“2.0">
+<channel>
+<title> Canal de noticias de últimahora</title>
+<description>Actualizaciones de último momento</description>
+<link>http://www.noticiasultimahoraejemplo.com/actualizacion</link>
+<item>
+<title>Guerra Ucrania</title>
+<description>Ultimos acontecimentos de la guerra en Ucrania</description>
+<link>http://www.noticiasultimahoraejemplo.com/actualizacion1</link>
+</item>
+<item>
+<title>Huelga general en España</title>
+<description>Detalles del desarrollo de la huelga</description>
+<link>http://www.noticiasultimahoraejemplo.com/actualizacion2</link>
+</item>
+<item>
+<title>interrupción de vuelos en todo el espacio aéreo de USA</title>
+<description>Posibles causas del parón aéreo en EEUU</description>
+<link>http://www.noticiasultimahoraejemplo.com/actualizacion3</link>
+</item>
+<item>
+<title>Elecciones 29N</title>
+<description>Así se vivió el debate entre los candidatos</description>
+<link>http://www.noticiasultimahoraejemplo.com/actualizacion4</link>
+</item>
+<item>
+<title>Ola de frio para este fin de semana</title>
+<description>Precauciones a tomar ante la ola de frío</description>
+<link>http://www.noticiasultimahoraejemplo.com/actualizacion4</link>
+</item>
+</channel>
+</rss>
